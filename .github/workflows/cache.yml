@@ -21,10 +21,10 @@ jobs:
           path: ~/.cache/pip
           key: cache-27bf0cc
 
-      - name: Install dependencies
+      - name: show-result
+        run: echo "Cache hit: ${{ steps.cache.outputs.cache-hit }}"
+
+      - name: install
         run: |
           python -m pip install --upgrade pip
           pip install fastapi
-
-      - name: Show cache result
-        run: echo "Cache hit: ${{ steps.cache.outputs.cache-hit }}"
