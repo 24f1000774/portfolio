@@ -4,22 +4,22 @@
     "version": "497f38df"
   },
   "products": [
-    { "id": "p1", "name": "Chair A", "category": "home", "price": 1000, "stock": 10, "rating": 4.2 },
-    { "id": "p2", "name": "Chair B", "category": "home", "price": 2000, "stock": 20, "rating": 4.0 },
-    { "id": "p3", "name": "Chair C", "category": "home", "price": 3000, "stock": 30, "rating": 4.5 },
-    { "id": "p4", "name": "Chair D", "category": "home", "price": 4000, "stock": 40, "rating": 3.9 },
-    { "id": "p5", "name": "Chair E", "category": "home", "price": 5000, "stock": 50, "rating": 4.3 },
-    { "id": "p6", "name": "Chair F", "category": "home", "price": 6000, "stock": 60, "rating": 4.1 },
+    { "id": "prod-497f38df-001", "name": "Home Item 1", "category": "home", "price": 1001, "stock": 10, "rating": 4.1 },
+    { "id": "prod-497f38df-002", "name": "Home Item 2", "category": "home", "price": 1002, "stock": 20, "rating": 4.2 },
+    { "id": "prod-497f38df-003", "name": "Home Item 3", "category": "home", "price": 1003, "stock": 30, "rating": 4.3 },
+    { "id": "prod-497f38df-004", "name": "Home Item 4", "category": "home", "price": 1004, "stock": 40, "rating": 4.0 },
+    { "id": "prod-497f38df-005", "name": "Home Item 5", "category": "home", "price": 1005, "stock": 50, "rating": 3.9 },
+    { "id": "prod-497f38df-006", "name": "Home Item 6", "category": "home", "price": 1954.51, "stock": 51, "rating": 4.4 },
 
-    { "id": "p7", "name": "T-Shirt A", "category": "clothing", "price": 500, "stock": 20, "rating": 3.8 },
-    { "id": "p8", "name": "T-Shirt B", "category": "clothing", "price": 600, "stock": 15, "rating": 4.0 },
-    { "id": "p9", "name": "Book A", "category": "books", "price": 300, "stock": 25, "rating": 4.6 },
-    { "id": "p10", "name": "Book B", "category": "books", "price": 400, "stock": 30, "rating": 4.4 },
-    { "id": "p11", "name": "Phone A", "category": "electronics", "price": 20000, "stock": 5, "rating": 4.7 },
-    { "id": "p12", "name": "Phone B", "category": "electronics", "price": 25000, "stock": 3, "rating": 4.8 },
-    { "id": "p13", "name": "Ball A", "category": "sports", "price": 700, "stock": 12, "rating": 4.2 },
-    { "id": "p14", "name": "Ball B", "category": "sports", "price": 800, "stock": 18, "rating": 4.1 },
-    { "id": "p15", "name": "Laptop A", "category": "electronics", "price": 50000, "stock": 2, "rating": 4.9 }
+    { "id": "prod-497f38df-007", "name": "Clothing Item 1", "category": "clothing", "price": 500, "stock": 10, "rating": 4.0 },
+    { "id": "prod-497f38df-008", "name": "Clothing Item 2", "category": "clothing", "price": 600, "stock": 12, "rating": 3.8 },
+    { "id": "prod-497f38df-009", "name": "Electronics Item 1", "category": "electronics", "price": 15000, "stock": 5, "rating": 4.7 },
+    { "id": "prod-497f38df-010", "name": "Electronics Item 2", "category": "electronics", "price": 20000, "stock": 3, "rating": 4.8 },
+    { "id": "prod-497f38df-011", "name": "Book Item 1", "category": "books", "price": 300, "stock": 20, "rating": 4.5 },
+    { "id": "prod-497f38df-012", "name": "Book Item 2", "category": "books", "price": 400, "stock": 15, "rating": 4.3 },
+    { "id": "prod-497f38df-013", "name": "Sports Item 1", "category": "sports", "price": 700, "stock": 8, "rating": 4.2 },
+    { "id": "prod-497f38df-014", "name": "Sports Item 2", "category": "sports", "price": 900, "stock": 9, "rating": 4.1 },
+    { "id": "prod-497f38df-015", "name": "Sports Item 3", "category": "sports", "price": 1100, "stock": 7, "rating": 4.0 }
   ],
   "aggregations": {
     "home": {
